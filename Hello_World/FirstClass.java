@@ -18,7 +18,7 @@ public class FirstClass
     public FirstClass()
     {
         // initialise instance variables
-        x = 1;
+        x = 3;
     }
     /**
      * An example of a method - replace this comment with your own
